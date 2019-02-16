@@ -2,7 +2,7 @@
 
 This image provides a python environment with jupyter notebook based on the official [miniconda](https://conda.io/en/latest/miniconda.html) images provided by Continuum Analytics, the organization behind the [Anaconda](https://www.anaconda.com/) data science platform. The base image can be found at the [Docker Hub](https://cloud.docker.com/repository/create).
 
-You can build this image from this repository, or you can download it from Docker Hub with
+You can build this image from this repository, or you can download it from [Docker Hub](https://cloud.docker.com/u/magomar/repository/docker/magomar/jupyter-notebook) with:
 
     docker pull magomar/jupyter-notebook:latest
 
